@@ -1,2 +1,2 @@
 # Week2
-Week to of the Programming Everything with Python Course (PREP)
+Week 2 of the Programming Everything with Python Course (PREP)
